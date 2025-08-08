@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Mohammad Mohebian</h1>
 
 <div align="center" width="100%"><img src="https://media.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="70%"/></div>
