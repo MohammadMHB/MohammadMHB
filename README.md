@@ -1,11 +1,12 @@
-## Hi there 👋
-
 # 💫 About Me:
-I'm currenlty working on Fronthooks.ir
+<h1 align="center">Hi 👋, I'm Mohammad Mohebian</h1>
+
+<div align="center" width="100%"><img src="https://media.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="70%"/></div>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahebmohamadi.ir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saheb-mohamadi-227ab4112) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad.mhbn.ir)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mohammadـmhbn)
 
 
 # 📊 GitHub Stats:
