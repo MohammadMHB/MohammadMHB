@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </div>
 <h1 align="center">
-  Mohammad Mohebian
+  👋 Hi, I'm Mohammad Mohebian
 </h1>
 
 ## 🌐 Socials:
